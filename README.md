@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hgvajgyhu
-- 👀 I’m interested in ...Men
-- 🌱 I’m currently learning ...How to rawdog
-- 💞️ I’m looking to collaborate on ...you all know by now
-- 📫 How to reach me ...4chan
-- 😄 Pronouns: ...Helicopter
-- ⚡ Fun fact: ...GAyY
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning ..
+- 💞️ I’m looking to collaborate on ..
+- 📫 How to reach me ...
+- 😄 Pronouns: ..
+- ⚡ Fun fact: ...
 
 <!---
 hgvajgyhu/hgvajgyhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
